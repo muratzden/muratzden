@@ -1,16 +1,28 @@
-## Hi there 👋
+# Murat Özden
 
-<!--
-**muratzden/muratzden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Programming Graduate from Muğla Sıtkı Koçman University.  
+Founder of Tilla Leather Craft.  
+Currently building TILLA-OS, an AI Native Brand Operating System.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI-assisted brand operating systems
+- E-commerce infrastructure
+- Brand governance automation
+- Marketplace architecture
+- Multi-workspace SaaS foundations
+
+## Featured Project
+
+### TILLA-OS
+
+AI Native Brand Operating System built with Next.js, TypeScript, authentication, workspace architecture, marketplace entitlements, localization infrastructure, governance engines, and CI pipeline.
+
+Repository: https://github.com/muratzden/tilla-os
+
+## Background
+
+- Computer Programming Graduate
+- Founder of a registered leather craft brand
+- Built and managed a WooCommerce e-commerce operation
+- Developing TILLA-OS as a long-term software and product architecture project
