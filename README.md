@@ -23,6 +23,7 @@ Repository: https://github.com/muratzden/tilla-os
 ## Background
 
 - Computer Programming Graduate
-- Founder of a registered leather craft brand
-- Built and managed a WooCommerce e-commerce operation
-- Developing TILLA-OS as a long-term software and product architecture project
+- Founder of Tilla Leather Craft, a registered leather goods brand
+- Built and managed a WooCommerce e-commerce business
+- Product designer, maker, and entrepreneur
+- Currently building TILLA-OS, an AI Native Brand Operating System
